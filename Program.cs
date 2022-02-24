@@ -20,13 +20,13 @@ namespace Day_8_EmplyoeeWageProblemUsingOOps
             //UC_3_PartFullTime UC3 = new UC_3_PartFullTime();
             //UC3.WageOfParTimeFullTime();
 
-            //UC-4-Problem
-            UC_4_SwitchCaseProblem UC4 = new UC_4_SwitchCaseProblem();
-            UC4.SwitchStatmentCaseProblem();
+            ////UC-4-Problem
+            //UC_4_SwitchCaseProblem UC4 = new UC_4_SwitchCaseProblem();
+            //UC4.SwitchStatmentCaseProblem();
 
-            ////UC-5-Problem
-            //UC_5_MonthWageCal UC5 = new UC_5_MonthWageCal();
-            //UC5.CalculationOfMonthlyWage();
+            //UC-5-Problem
+            UC_5_MonthWageCal UC5 = new UC_5_MonthWageCal();
+            UC5.CalculationOfMonthlyWage();
 
             ////UC-6-Problem
             //UC_6_CalOfWageOnCondition UC6 = new UC_6_CalOfWageOnCondition();
