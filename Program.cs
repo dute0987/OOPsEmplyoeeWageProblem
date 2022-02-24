@@ -6,11 +6,11 @@ namespace Day_8_EmplyoeeWageProblemUsingOOps
         static void Main(string[] args)
         {
             //Welcome Message For EmplyoeeWage Problem using OOPs
-            Console.WriteLine("Welcome To the EmplyoeeWage Problems Using OOPs Concept");
+            //Console.WriteLine("Welcome To the EmplyoeeWage Problems Using OOPs Concept");
 
-            ////// UC-1-Problem
-            ////UC_1_EmpPreAbs UC1 = new UC_1_EmpPreAbs();
-            ////UC1.EmpPresentAbsent();
+            // UC-1-Problem
+            UC_1_EmpPreAbs UC1 = new UC_1_EmpPreAbs();
+            UC1.EmpPresentAbsent();
 
             //////UC-2-Problem
             ////UC_2_EmpWageDaily UC2 = new UC_2_EmpWageDaily();
